@@ -1,4 +1,4 @@
-![image](https://github.com/Hariharan-061102/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/93427270/0bc3fcd9-309d-47e9-8c33-5a757dadf882)# PCA: EXP-1  SUM ARRAY GPU
+# PCA: EXP-1  SUM ARRAY GPU
 <h3>M.Hariharan</h3> 
 <h3>212221230034</h3>
 <h3>EX. NO 1</h3>
