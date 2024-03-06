@@ -1,4 +1,4 @@
-# PCA: EXP-1  SUM ARRAY GPU
+![image](https://github.com/Hariharan-061102/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/93427270/0bc3fcd9-309d-47e9-8c33-5a757dadf882)# PCA: EXP-1  SUM ARRAY GPU
 <h3>M.Hariharan</h3> 
 <h3>212221230034</h3>
 <h3>EX. NO 1</h3>
@@ -175,6 +175,12 @@ int main(int argc, char **argv)
 
 ## OUTPUT:
 ![image](https://github.com/Hariharan-061102/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/93427270/72de373a-3e34-4681-b080-f3d200122912)
+
+### blocksize=1203
+![image](https://github.com/Hariharan-061102/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/93427270/76348c87-d21e-4196-903a-cbc723cf2902)
+
+### blocksize=256
+![image](https://github.com/Hariharan-061102/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/93427270/8b6f3373-0ac0-45fa-889c-c12719b415a6)
 
 
 ## RESULT:
